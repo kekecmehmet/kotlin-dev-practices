@@ -1,0 +1,17 @@
+# Gradle files
+.gradle/
+build/
+
+# Kotlin-specific files
+*.class
+*.jar
+*.war
+*.ear
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+
+# Miscellaneous
+out/
+.DS_Store
