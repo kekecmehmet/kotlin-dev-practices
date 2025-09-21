@@ -10,6 +10,16 @@ git clone https://github.com/kekecmehmet/kotlin-dev-practices.git
 ```
 Each folder contains separate projects. For more details, please read each one's README.md.
 
+## Projects
+Click for README.md files.
+* [Affirmations](https://github.com/kekecmehmet/kotlin-dev-practices/tree/main/Affirmations#readme)
+* [Business Card](https://github.com/kekecmehmet/kotlin-dev-practices/tree/main/Business%20Card#readme)
+* [Dessert Clicker](https://github.com/kekecmehmet/kotlin-dev-practices/tree/main/Dessert%20Clicker#readme)
+* [DiceRoller](https://github.com/kekecmehmet/kotlin-dev-practices/tree/main/DiceRoller#readme)
+* [TipTime](https://github.com/kekecmehmet/kotlin-dev-practices/tree/main/TipTime#readme)
+* [Woof](https://github.com/kekecmehmet/kotlin-dev-practices/tree/main/Woof#readme)
+ 
+
 ## Contributing
 
 Pull requests welcome! For major changes, please open an issue first to discuss.
